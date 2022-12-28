@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheBoolean-Boy
-- 👀 I’m interested in competitive programming 
-- 🌱 I’m currently learning DSA (c++;)
-- 💞️ I’m looking to participate in upcoming cp events 
+- 👀 I’m interested in Software Automation
+- 🌱 I’m currently learning DSA (Java;)
+- 💞️ I’m looking to participate in upcoming Open Source Events
 - 📫 How to reach me saswatrath02@gamil.com
 
 <!---
