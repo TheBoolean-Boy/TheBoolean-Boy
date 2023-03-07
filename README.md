@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheBoolean-Boy
-- 👀 I’m interested in Software Automation
-- 🌱 I’m currently learning DSA (Java;)
-- 💞️ I’m looking to participate in upcoming Open Source Events
+- 👀 I’m interested in Software Automation and handling.
+- 🌱 I’m into ML and Web Dev.
+- 💞️ I’m looking forward get involved in open source communities
 - 📫 How to reach me saswatrath02@gamil.com
 
 <!---
