@@ -23,10 +23,6 @@ I build app for the web and I am currently learning the technology(AI) to make t
       <br>JavaScript
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="TailwindCSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
       <br>Node.js
     </td>
@@ -43,6 +39,10 @@ I build app for the web and I am currently learning the technology(AI) to make t
     <td align="center">
       <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="60" height="60" alt="Zustand" />
       <br>Zustand
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="TailwindCSS" />
+      <br>Tailwind CSS
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
