@@ -1,6 +1,6 @@
-# > Do explore my featured projects to have a idea of what I build
+# > Full Stack Dev
 
-I build app for the web and I am currently learning the technology(AI) to make them faster
+I build app for the web and I am currently learning the technology(AI) to make them smarter, <b><i> have look at pinned projects they are LIVE </i></b>
 
 ---
 
