@@ -33,27 +33,4 @@ A modern real-time web application built with cutting-edge technologies for perf
 
 ---
 
-## ✨ Features
 
-- ⚡ Real-time communication with **Socket.IO**  
-- 🗄️ Database powered by **MongoDB**  
-- 🎨 Modern responsive UI with **React + Tailwind CSS**  
-- 🚀 Backend with **Node.js & Express.js**  
-- 📜 Written in clean, modular **JavaScript**  
-
----
-
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate to project directory
-cd your-repo
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
