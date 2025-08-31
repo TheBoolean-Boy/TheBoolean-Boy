@@ -20,7 +20,7 @@ I build app for the web and I am currently learning the technology(AI) to make t
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg](https://drive.google.com/file/d/1D9KZd6s0b0_Ux5oZHOfse4kk2KlNFNEk/view?usp=sharing)" width="60" height="60" alt="Express.js" style="background-color:#000; padding:5px; border-radius:8px;" />
+<img src="https://drive.google.com/file/d/1D9KZd6s0b0_Ux5oZHOfse4kk2KlNFNEk/view?usp=sharing" width="60" height="60" alt="Express.js" style="background-color:#000; padding:5px; border-radius:8px;" />
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="60" height="60" alt="Socket.IO" />
