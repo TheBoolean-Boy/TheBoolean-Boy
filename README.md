@@ -41,7 +41,7 @@ I build app for the web and I am currently learning the technology(AI) to make t
       <br>Socket.IO
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.png" width="60" height="60" alt="Zustand" />
+      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="60" height="60" alt="Zustand" />
       <br>Zustand
     </td>
     <td align="center">
