@@ -45,10 +45,6 @@ I build app for the web and I am currently learning the technology(AI) to make t
       <br>Zustand
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C" />
-      <br>C
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
       <br>C++
     </td>
