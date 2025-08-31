@@ -1,6 +1,6 @@
 # > Full Stack Dev
 
-I build web apps and I am currently learning the technology(AI) to make them smarter, <b><i> have look at pinned projects they are LIVE </i></b>
+I build web apps and I am currently learning the technology(AI) to make them smarter, <b><i> have look at my pinned projects they are LIVE </i></b>
 
 ---
 
