@@ -26,11 +26,11 @@ I build web apps and I am currently learning the technology(AI) to make them sma
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
       <br>Node.js
     </td>
-  </tr>
-  <td align="center">
+    <td align="center">
       <img src="express.png" width="60" height="60" alt="Express.js" />
       <br>Express.js
     </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="60" height="60" alt="Socket.IO" />
