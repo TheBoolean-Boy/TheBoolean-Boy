@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheBoolean-Boy
-- 👀 I’m interested in Software Automation and handling.
-- 🌱 I’m into ML and Web Dev.
-- 💞️ I’m looking forward get involved in open source communities
+- 👀 I’m interested in building intelligent products.
+- 🌱 I’m into Web and AI.
+- 💞️ I’m open to collaborations and projects.
 - 📫 How to reach me saswatrath02@gamil.com
 
 <!---
