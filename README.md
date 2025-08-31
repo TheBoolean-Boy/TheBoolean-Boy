@@ -8,22 +8,51 @@ I build app for the web and I am currently learning the technology(AI) to make t
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" /> 
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
-
-
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="TailwindCSS" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
-
-<img src="express.png" width="60" height="60" alt="Express.js" style="background-color:#white; padding:10px; border-radius:8px;" />
-
-<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="60" height="60" alt="Socket.IO" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+      <br>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="TailwindCSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="express.png" width="60" height="60" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="60" height="60" alt="Socket.IO" />
+      <br>Socket.IO
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.png" width="60" height="60" alt="Zustand" />
+      <br>Zustand
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C" />
+      <br>C
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
+      <br>C++
+    </td>
+  </tr>
+</table>
 
 </div>
