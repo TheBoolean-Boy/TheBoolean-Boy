@@ -1,6 +1,6 @@
-# 🚀 Project Name
+# 🚀 Do explore my featured projects to have a idea of what I build
 
-A modern real-time web application built with cutting-edge technologies for performance, scalability, and seamless user experience.
+I build app for the web and I am currently learning the technology(AI) to make them faster
 
 ---
 
@@ -8,29 +8,23 @@ A modern real-time web application built with cutting-edge technologies for perf
 
 <div align="center">
 
-<!-- MongoDB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" /> 
 
-<!-- React -->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
 
-<!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
 
-<!-- Tailwind -->
+
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="TailwindCSS" />
 
-<!-- Node.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
 
-<!-- Express.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express.js" style="background-color:#000; padding:5px; border-radius:8px;" />
 
-<!-- Socket.IO -->
+
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="60" height="60" alt="Socket.IO" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
+
 </div>
-
----
-
-
