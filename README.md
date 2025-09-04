@@ -48,6 +48,10 @@ I build web apps and I am currently learning the technology(AI) to make them sma
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
       <br>C++
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
+      <br>Java
+    </td>
   </tr>
 </table>
 
