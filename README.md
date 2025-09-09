@@ -62,5 +62,3 @@ I build web apps and I am currently learning the technology(AI) to make them sma
 </div>
 
 ---
-
-*Added TanStack Query (React Query) to the tech stack with logo.*
