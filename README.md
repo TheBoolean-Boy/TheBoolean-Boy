@@ -19,7 +19,7 @@ I build web apps and I am currently learning the technology(AI) to make them sma
       <br>React
     </td>
     <td align="center">
-       <img width="2000" height="1791" alt="react-query-seeklogo" src="https://github.com/user-attachments/assets/d6faf448-24ea-40ff-b832-b0eec5942aaf" />
+       <img width="60" height="60" alt="react-query-seeklogo" src="https://github.com/user-attachments/assets/d6faf448-24ea-40ff-b832-b0eec5942aaf" />
       <br>TanStack Query (React Query)
     </td>
     <td align="center">
