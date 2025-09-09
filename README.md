@@ -19,6 +19,10 @@ I build web apps and I am currently learning the technology(AI) to make them sma
       <br>React
     </td>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/tanstack/query/main/media/logo.svg" width="60" height="60" alt="TanStack Query" />
+      <br>TanStack Query (React Query)
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
       <br>JavaScript
     </td>
@@ -56,3 +60,7 @@ I build web apps and I am currently learning the technology(AI) to make them sma
 </table>
 
 </div>
+
+---
+
+*Added TanStack Query (React Query) to the tech stack with logo.*
