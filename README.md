@@ -27,6 +27,10 @@ I build web apps and I am currently learning the technology(AI) to make them sma
       <br>JavaScript
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
       <br>Node.js
     </td>
@@ -46,7 +50,7 @@ I build web apps and I am currently learning the technology(AI) to make them sma
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="TailwindCSS" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
@@ -60,5 +64,3 @@ I build web apps and I am currently learning the technology(AI) to make them sma
 </table>
 
 </div>
-
----
