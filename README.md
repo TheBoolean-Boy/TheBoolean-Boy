@@ -35,7 +35,7 @@ Building Agentic RAG pipelines with full stack applications</i></b>
       <br>Node.js
     </td>
     <td align="center">
-      <img width="60" height="60" alt="langchain" src="https://github.com/user-attachments/assets/a1094948-6a76-42bb-9f3d-d89842ec41f3" />
+     <img width="60" height="60" alt="langchain" src="https://github.com/user-attachments/assets/d1a79870-36c4-4604-8830-abb3c2ad04df" />
       <br>LangChain
     </td>
     <td align="center">
@@ -43,6 +43,7 @@ Building Agentic RAG pipelines with full stack applications</i></b>
       <br>Next.js
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="express.png" width="60" height="60" alt="Express.js" />
@@ -73,10 +74,11 @@ Building Agentic RAG pipelines with full stack applications</i></b>
       <br>Postman
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="60" height="60" alt="Vercel" />
+      <img src="[https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg](https://github.com/user-attachments/assets/3ae48433-cc93-4df4-9b8c-caa8169dc307)" width="60" height="60" alt="Vercel" />
       <br>Vercel
     </td>
   </tr>
 </table>
 
 </div>
+
