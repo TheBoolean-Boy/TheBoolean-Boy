@@ -35,7 +35,7 @@ Building Agentic RAG pipelines with full stack applications</i></b>
       <br>Node.js
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/user-attachments/assets/05f92a84-5bb2-4a9c-8c65-6d48d1e4f5da/langchain-logo.png" width="60" height="60" alt="LangChain" />
+      <img width="`60" height="60" alt="langchain" src="https://github.com/user-attachments/assets/a1094948-6a76-42bb-9f3d-d89842ec41f3" />
       <br>LangChain
     </td>
   </tr>
