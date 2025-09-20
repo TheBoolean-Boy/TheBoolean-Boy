@@ -74,7 +74,7 @@ Building Agentic RAG pipelines with full stack applications</i></b>
       <br>Postman
     </td>
     <td align="center">
-      <img src="[https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg](https://github.com/user-attachments/assets/3ae48433-cc93-4df4-9b8c-caa8169dc307)" width="60" height="60" alt="Vercel" />
+      <img width="60" height="60" alt="vercel" src="https://github.com/user-attachments/assets/a4e69d8b-f5f2-4b09-ae04-77dfcd154471" />
       <br>Vercel
     </td>
   </tr>
