@@ -1,6 +1,6 @@
 # Full Stack Dev
 
-I build web apps and I am currently learning the technology(AI) to make them smarter, <b><i> have look at my pinned projects they are LIVE </i></b>
+Building Agentic RAG pipelines with full stack applications</i></b>
 
 ---
 
@@ -34,6 +34,10 @@ I build web apps and I am currently learning the technology(AI) to make them sma
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
       <br>Node.js
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/user-attachments/assets/05f92a84-5bb2-4a9c-8c65-6d48d1e4f5da/langchain-logo.png" width="60" height="60" alt="LangChain" />
+      <br>LangChain
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -59,6 +63,10 @@ I build web apps and I am currently learning the technology(AI) to make them sma
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
       <br>Java
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
 </table>
