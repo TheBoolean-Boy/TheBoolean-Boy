@@ -1,4 +1,4 @@
-# Full Stack Dev
+# Full Stack AI Dev
 
 Building Agentic RAG pipelines with full stack applications</i></b>
 
