@@ -4,7 +4,7 @@ Building Agentic RAG pipelines with full stack applications</i></b>
 
 ---
 
-## 🛠> Tech Stack
+## 🛠> Tech Stack (I take 2 days to learnn ANY new Technology)
 
 <div align="center">
 
