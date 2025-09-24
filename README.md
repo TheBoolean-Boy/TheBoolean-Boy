@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saswat Rath 👋
+# Hi, I'm Saswat Rath 
 
 ### A Full-Stack Engieer who's into AI these days
 
