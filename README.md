@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Saswat Rath 🚀 A Developer from India  
+## Hi, I'm Saswat Rath. A solution maker who uses computers to solve problems 
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TheBoolean-Boy) 
