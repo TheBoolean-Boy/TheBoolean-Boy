@@ -1,225 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+<div align="center">
 
-        :root {
-            --bg-color: #121212;
-            --text-color: #ffffff;
-            --secondary-text-color: #a0a0a0;
-            --icon-color: #a0a0a0;
-            --border-color: #333333;
-            --card-bg: #1e1e1e;
-        }
+# Hi, I'm [Your Name] 👋
 
-        body {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 20px;
-            box-sizing: border-box;
-            line-height: 1.6;
-        }
+### Full Stack Developer & AI Enthusiast
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
+I'm passionate about building **RAG pipelines**, developing intelligent **AI agents**, and crafting modern **full-stack web applications**. I focus on creating clean, scalable, and efficient solutions.
 
-        .section {
-            background-color: var(--card-bg);
-            padding: 24px;
-            border-radius: 12px;
-            border: 1px solid var(--border-color);
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
+---
 
-        h1, h2, h3 {
-            font-weight: 700;
-            margin-top: 0;
-        }
+### 💻 My Tech Stack
 
-        h1 {
-            font-size: 2.5em;
-            color: var(--text-color);
-        }
+|   |   |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Zustand-4d4d4d?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" /> <img src="https://img.shields.io/badge/TanStack-32a852?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" /> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> |
+| **AI/ML** | <img src="https://img.shields.io/badge/LangChain-4d4d4d?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> |
+| **Deployment** | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> |
+</div>
 
-        h2 {
-            font-size: 1.5em;
-            color: var(--secondary-text-color);
-            margin-bottom: 20px;
-        }
+---
 
-        h3 {
-            font-size: 1.2em;
-            color: var(--secondary-text-color);
-            margin-bottom: 10px;
-        }
+### Find me on
 
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            align-items: center;
-        }
-
-        .tech-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 8px;
-            font-weight: 700;
-            font-size: 0.9em;
-            text-align: center;
-            min-width: 60px;
-        }
-
-        .tech-icon img {
-            width: 40px;
-            height: 40px;
-            filter: grayscale(100%) brightness(1.5) contrast(0.5); /* Makes icons look grey */
-            transition: filter 0.3s ease;
-        }
-
-        .tech-icon img:hover {
-            filter: none; /* Colorize on hover for a subtle effect */
-        }
-        
-        .tech-label {
-            color: var(--text-color);
-        }
-
-        .about p {
-            font-size: 1em;
-            color: var(--secondary-text-color);
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="section about">
-            <h1>Hi, I'm [Your Name] 👋</h1>
-            <h2>Full Stack Developer & AI Enthusiast</h2>
-            <p>I'm passionate about building robust **RAG pipelines**, developing intelligent **AI agents**, and crafting modern **full-stack web applications**. I focus on creating clean, scalable, and efficient solutions.</p>
-        </div>
-
-        <div class="section">
-            <h3>Tech I Work With</h3>
-            <div class="tech-stack">
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript">
-                    </span>
-                    <span class="tech-label">TypeScript</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript">
-                    </span>
-                    <span class="tech-label">JavaScript</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-                    </span>
-                    <span class="tech-label">React</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js">
-                    </span>
-                    <span class="tech-label">Next.js</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js">
-                    </span>
-                    <span class="tech-label">Node.js</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express">
-                    </span>
-                    <span class="tech-label">Express</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL">
-                    </span>
-                    <span class="tech-label">Postgres</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-                    </span>
-                    <span class="tech-label">MongoDB</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS">
-                    </span>
-                    <span class="tech-label">Tailwind</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
-                    </span>
-                    <span class="tech-label">C++</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
-                    </span>
-                    <span class="tech-label">Java</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="filter: grayscale(100%)">
-                    </span>
-                    <span class="tech-label">LangChain</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" style="filter: grayscale(100%)">
-                    </span>
-                    <span class="tech-label">Zustand</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="filter: grayscale(100%)">
-                    </span>
-                    <span class="tech-label">Vercel</span>
-                </div>
-                <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" style="filter: grayscale(100%)">
-                    </span>
-                    <span class="tech-label">Socket.io</span>
-                </div>
-                 <div class="tech-item">
-                    <span class="tech-icon">
-                        <img src="https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack" style="filter: grayscale(100%)">
-                    </span>
-                    <span class="tech-label">TanStack</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h3>Find me on</h3>
-            <p>
-                <a href="[Your LinkedIn URL]" style="color: var(--secondary-text-color); text-decoration: none; font-weight: 700; margin-right: 15px;">LinkedIn</a>
-                <a href="[Your Twitter URL]" style="color: var(--secondary-text-color); text-decoration: none; font-weight: 700; margin-right: 15px;">Twitter</a>
-            </p>
-        </div>
-    </div>
-</body>
-</html>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn URL])
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter URL])
