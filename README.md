@@ -2,13 +2,13 @@
 
 # Hi, I'm Saswat Rath 👋
 
-### Full Stack Developer & AI Enthusiast
+### A Full-Stack Engieer who's into AI these days
 
-I'm passionate about building **RAG pipelines**, developing intelligent **AI agents**, and crafting modern **full-stack web applications**. I focus on creating clean, scalable, and efficient solutions.
+I'm ultra passionate about Agentic AI in niche tech and exploring the infinite possibilites around them.
 
 ---
 
-### 💻 My Tech Stack
+### 💻 My Tech Stack(I can program in any language if required)
 
 |   |   |
 | :--- | :--- |
