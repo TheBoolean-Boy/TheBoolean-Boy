@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Saswat Rath. A solution maker who uses computers to solve problems 
+## Hi, I'm Saswat Rath. Nice to meet you!
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TheBoolean-Boy) 
@@ -15,7 +15,7 @@
 <!-- Any image aligned to the right -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [MailPunk](https://github.com/TheBoolean-Boy/MailPunk)  
+- 👨🏽‍💻 I’m currently working on [SonicDoc](https://github.com/SonicDoc/SonicDoc)  
 - 🌱 I’m currently learning Agentic AI and MCPs  
 - 🤔 I’m seeking well eehhhhhh 😭  
 - 💬 Ask me about anything, I am happy to help  
