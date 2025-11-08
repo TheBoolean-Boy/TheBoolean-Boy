@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Saswat Rath. Nice to meet you!
+## Hi, I'm Saswat Rath. Nice to meet you (Full Stack AI Engineer)!
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TheBoolean-Boy) 
@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Nishori AI](https://github.com/NishoriAI)  
-- 🌱 I’m currently learning Agentic AI and MCPs  
-- 🤔 I’m seeking well eehhhhhh 😭  
-- 💬 Ask me about anything, I am happy to help  
+- 🌱 I’m building ambitious applicable ai solutions.
+- 🤔 I’m open to related roles. 
+- 💬 Ask me about anything, I am happy to help.
 - ⚡️ Fun-Fact: I have a degree in Electrical Engineering (2025 grad)  
 - 📫 How to reach me: [saswatrath02.com](https://saswatrath02.com)  
 
